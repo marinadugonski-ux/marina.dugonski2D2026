@@ -1,0 +1,10 @@
+body {
+    background-color: #f4ccd8;
+    color: #1a1a1a;
+    font-family: 'Times New Roman', serif;
+}
+
+header {
+    text-align: center;
+    border-bottom: 3px double #000;
+}
